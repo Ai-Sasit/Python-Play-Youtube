@@ -1,0 +1,4 @@
+youtube-search>=2.1.0
+pafy>=0.5.5
+pygame>=2.0.1
+pydub>=0.25.1
